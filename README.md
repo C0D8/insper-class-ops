@@ -1,1 +1,1 @@
-# insper-class-ops
+# Projeto Insper Classroom - Ops
