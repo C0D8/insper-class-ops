@@ -1,0 +1,315 @@
+Started by user [8mha:////4DfYWSN3UQQXGctGvzb43YNPJbqEpCXbSrJ+lwpQZtYkAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Obtained Jenkinsfile from git https://github.com/C0D8/insper-class-class
+[8mha:////4G0ZNL1NteBQwZ4t0iml1Awp0JMnOLo8fkr8LrnvH6DNAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4Aw9faT8UztnkaUwn0iYQswJeWtPVgTyRei+YZUlnGwfAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4B+OfNVfAnQRxxFZZUVyq2Sbo/NdyI/YgxWBUXScoQ4YAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZR/eT83ILSktQifY2k0sycEt3MPE19AHHxbH3KAAAA[0mJenkins in /var/jenkins_home/workspace/classroom.classroom
+[8mha:////4MB1ZJIZX1MpOt2vDNrIltds3M+is2AG+q+77dMw5q0fAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4BLc5AXOjvwFdPHjRF6MkB2UyB9UXgpucvtM1aLk6uL8AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4GUBmbHu1+ADdzSfeJAtiUDOWs3xVhItonmVKZX0Tmq6AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (Declarative: Checkout SCM)
+[8mha:////4M83qj8JAVwxlqiup+f9xemDWzEpu83YbvxBfR/x3nY5AAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] checkout
+Selected Git installation does not exist. Using Default
+The recommended git tool is: NONE
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/C0D8/insper-class-class
+ > git init /var/jenkins_home/workspace/classroom.classroom # timeout=10
+Fetching upstream changes from https://github.com/C0D8/insper-class-class
+ > git --version # timeout=10
+ > git --version # 'git version 2.39.2'
+ > git fetch --tags --force --progress -- https://github.com/C0D8/insper-class-class +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/C0D8/insper-class-class # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > git rev-parse refs/remotes/origin/main^{commit} # timeout=10
+Checking out Revision b18c127a0e211e8b71a3a6a192d454d806904a43 (refs/remotes/origin/main)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f b18c127a0e211e8b71a3a6a192d454d806904a43 # timeout=10
+Commit message: "Merge branch 'main' of https://github.com/C0D8/insper-class-class"
+First time build. Skipping changelog.
+[8mha:////4L2x9D/v59GoQCp1T2xN8d2xCHnjEhp/eyFospiE2pE8AAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9Dg2gqvAAAAA==[0m[Pipeline] }
+[8mha:////4DD9PJ7kcJJ0N3PPgNTwBHDx1u6PO4KMMM9FB0e3a6s2AAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQRbWRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9J+wGOvAAAAA==[0m[Pipeline] // stage
+[8mha:////4OT8nCYMi++hyNQ8q8ckAaBhN8UAbIqgOf48THPhZIBwAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQDEh2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INtuQqUcEAAAA=[0m[Pipeline] withEnv
+[8mha:////4C2Oo/37sLm6vZJX0GkRGMSWu3GMsslA5VC0zEaue9pCAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycoiUzoiJNerCCUITQtLo/zZJSSdOxNW4Ay2VmPBg2Zas93pDGQOcKBjuNHYWY2t570czJ54pdDdPmTu68pYwkte80bkhpc9rbShpWFUw2AjYamw9RYsmwU44+ZCVl2iqSwrzdhTArBrgCYWYyUmG9C1TgP19VJHwx/kLgKlPwOrDYvXyLD8BobDcwgAAAA==[0m[Pipeline] {
+[8mha:////4B1mgsu+EtifQO445JkQwu5+V/XX8eiinTw+agCmX7fOAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUZUVMrFEWThCaEJJG/7dJSjpxIq7GHWipxIQHy7ZkvdcbqhjgRMEwp7GzGFvLej+aObFMobt5yszRlbWEkbxmQmdBSp/XKihpWFWUsOGw1dh6ihZNgh138iFrL9HUlxTm7cihtGqAJxR8JicZ0rdMAfb3UUXCH+cvAKY+Qdk0ix2WZ/UBbwyqm8IAAAA=[0m[Pipeline] stage
+[8mha:////4AL+HFhralYp8PQUZrxVNxK/P3VdU9S5yqAdctZ3MFTQAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUwIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLdfrbD/Cw+y7kUycIAAAA=[0m[Pipeline] { (Jenkis Classroom)
+[8mha:////4KIBdJ7R3vVWyOL7emtx16SxJcyBnO98HMnfq9iHz/P8AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiBB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyu3uU/vwBgq0rvS+AAAA[0m[Pipeline] echo
+Jankins classroom interface
+[8mha:////4OZviMPhtauz7AoC68aBwJl3XEesjLdG/a5Ik3Z+1eZWAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIihKgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7N7BnLt++AAAA[0m[Pipeline] }
+[8mha:////4GIXXn4I8mPKRMi0FXUeFohtnovECFL2ixRMdo/oArH0AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiKGgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7N4glvS6+AAAA[0m[Pipeline] // stage
+[8mha:////4GT6eWHyZEFGrJ7UmlbFWR2bGBeQHM90UnYKqX8DoMAWAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUnRgQE2uUhROEJoSk0f9tkpJOnIircQdaKjHhwbItWe/1hioGOFEwzGnsLMbWst6PZk4sU+hunjJzdGUtYSSvmdBZkNLntQpKGlYVJWw4bDW2nqJFk2DHnXzI2ks09SWFeTtyKK0a4AkFn8lJhvQtU4D9fVSR8Mf5C4CpT1A2zWKH5Vl9ANydZ8vCAAAA[0m[Pipeline] stage
+[8mha:////4Hd0I5VtCKKr608JWckHe0oDCFNm4JrXZDvCzOdH0VfPAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUTCAhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD0rlhNLCAAAA[0m[Pipeline] { (Build)
+[8mha:////4AFEVIfsdSBfhcxbcKuPqltc/03lfN1tm+4GzNBLeftnAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiOhCiSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyu3uU/vwBr2eB0O+AAAA[0m[Pipeline] sh
++ mvn clean install
+[[1;34mINFO[m] Scanning for projects...
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/3.2.2/spring-boot-starter-parent-3.2.2.pom
+Progress (1): 2.8/13 kBProgress (1): 5.5/13 kBProgress (1): 8.3/13 kBProgress (1): 11/13 kB Progress (1): 13 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/3.2.2/spring-boot-starter-parent-3.2.2.pom (13 kB at 8.7 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom
+Progress (1): 4.1/111 kBProgress (1): 8.2/111 kBProgress (1): 12/111 kB Progress (1): 16/111 kBProgress (1): 20/111 kBProgress (1): 25/111 kBProgress (1): 29/111 kBProgress (1): 33/111 kBProgress (1): 37/111 kBProgress (1): 41/111 kBProgress (1): 45/111 kBProgress (1): 49/111 kBProgress (1): 53/111 kBProgress (1): 57/111 kBProgress (1): 61/111 kBProgress (1): 66/111 kBProgress (1): 70/111 kBProgress (1): 74/111 kBProgress (1): 78/111 kBProgress (1): 82/111 kBProgress (1): 86/111 kBProgress (1): 90/111 kBProgress (1): 94/111 kBProgress (1): 98/111 kBProgress (1): 102/111 kBProgress (1): 106/111 kBProgress (1): 111/111 kBProgress (1): 111 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom (111 kB at 310 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dependencies/2023.0.0/spring-cloud-dependencies-2023.0.0.pom
+Progress (1): 4.1/10 kBProgress (1): 8.2/10 kBProgress (1): 10 kB                       Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dependencies/2023.0.0/spring-cloud-dependencies-2023.0.0.pom (10 kB at 22 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dependencies-parent/4.1.0/spring-cloud-dependencies-parent-4.1.0.pom
+Progress (1): 4.1/8.1 kBProgress (1): 8.1 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dependencies-parent/4.1.0/spring-cloud-dependencies-parent-4.1.0.pom (8.1 kB at 82 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons-dependencies/4.1.0/spring-cloud-commons-dependencies-4.1.0.pom
+Progress (1): 4.1/7.2 kBProgress (1): 7.2 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons-dependencies/4.1.0/spring-cloud-commons-dependencies-4.1.0.pom (7.2 kB at 89 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-dependencies/4.1.0/spring-cloud-netflix-dependencies-4.1.0.pom
+Progress (1): 4.1/9.8 kBProgress (1): 8.2/9.8 kBProgress (1): 9.8 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-dependencies/4.1.0/spring-cloud-netflix-dependencies-4.1.0.pom (9.8 kB at 105 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-stream-dependencies/4.1.0/spring-cloud-stream-dependencies-4.1.0.pom
+Progress (1): 4.1/8.6 kBProgress (1): 8.2/8.6 kBProgress (1): 8.6 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-stream-dependencies/4.1.0/spring-cloud-stream-dependencies-4.1.0.pom (8.6 kB at 72 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-task-dependencies/3.1.0/spring-cloud-task-dependencies-3.1.0.pom
+Progress (1): 4.1/5.8 kBProgress (1): 5.8 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-task-dependencies/3.1.0/spring-cloud-task-dependencies-3.1.0.pom (5.8 kB at 35 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-circuitbreaker-dependencies/3.1.0/spring-cloud-circuitbreaker-dependencies-3.1.0.pom
+Progress (1): 4.1/6.7 kBProgress (1): 6.7 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-circuitbreaker-dependencies/3.1.0/spring-cloud-circuitbreaker-dependencies-3.1.0.pom (6.7 kB at 59 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-bom/2.1.0/resilience4j-bom-2.1.0.pom
+Progress (1): 4.1/6.4 kBProgress (1): 6.4 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-bom/2.1.0/resilience4j-bom-2.1.0.pom (6.4 kB at 73 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-config-dependencies/4.1.0/spring-cloud-config-dependencies-4.1.0.pom
+Progress (1): 4.1/7.5 kBProgress (1): 7.5 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-config-dependencies/4.1.0/spring-cloud-config-dependencies-4.1.0.pom (7.5 kB at 66 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-function-dependencies/4.1.0/spring-cloud-function-dependencies-4.1.0.pom
+Progress (1): 4.1/6.8 kBProgress (1): 6.8 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-function-dependencies/4.1.0/spring-cloud-function-dependencies-4.1.0.pom (6.8 kB at 96 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-gateway-dependencies/4.1.0/spring-cloud-gateway-dependencies-4.1.0.pom
+Progress (1): 4.1/6.4 kBProgress (1): 6.4 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-gateway-dependencies/4.1.0/spring-cloud-gateway-dependencies-4.1.0.pom (6.4 kB at 71 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-consul-dependencies/4.1.0/spring-cloud-consul-dependencies-4.1.0.pom
+Progress (1): 4.1/7.5 kBProgress (1): 7.5 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-consul-dependencies/4.1.0/spring-cloud-consul-dependencies-4.1.0.pom (7.5 kB at 101 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-vault-dependencies/4.1.0/spring-cloud-vault-dependencies-4.1.0.pom
+Progress (1): 4.1/6.2 kBProgress (1): 6.2 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-vault-dependencies/4.1.0/spring-cloud-vault-dependencies-4.1.0.pom (6.2 kB at 74 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-zookeeper-dependencies/4.1.0/spring-cloud-zookeeper-dependencies-4.1.0.pom
+Progress (1): 4.1/8.9 kBProgress (1): 8.2/8.9 kBProgress (1): 8.9 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-zookeeper-dependencies/4.1.0/spring-cloud-zookeeper-dependencies-4.1.0.pom (8.9 kB at 88 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-bus-dependencies/4.1.0/spring-cloud-bus-dependencies-4.1.0.pom
+Progress (1): 4.1/6.1 kBProgress (1): 6.1 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-bus-dependencies/4.1.0/spring-cloud-bus-dependencies-4.1.0.pom (6.1 kB at 84 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-contract-dependencies/4.1.0/spring-cloud-contract-dependencies-4.1.0.pom
+Progress (1): 4.1/9.0 kBProgress (1): 8.2/9.0 kBProgress (1): 9.0 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-contract-dependencies/4.1.0/spring-cloud-contract-dependencies-4.1.0.pom (9.0 kB at 114 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-openfeign-dependencies/4.1.0/spring-cloud-openfeign-dependencies-4.1.0.pom
+Progress (1): 4.1/6.5 kBProgress (1): 6.5 kB                        Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-kubernetes-dependencies/3.1.0/spring-cloud-kubernetes-dependencies-3.1.0.pom
+Progress (1): 4.1/13 kBProgress (1): 8.2/13 kBProgress (1): 12/13 kB Progress (1): 13 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-kubernetes-dependencies/3.1.0/spring-cloud-kubernetes-dependencies-3.1.0.pom (13 kB at 132 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/io/fabric8/kubernetes-client-bom/6.9.2/kubernetes-client-bom-6.9.2.pom
+Progress (1): 4.1/28 kBProgress (1): 8.2/28 kBProgress (1): 12/28 kB Progress (1): 16/28 kBProgress (1): 20/28 kBProgress (1): 25/28 kBProgress (1): 28 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/io/fabric8/kubernetes-client-bom/6.9.2/kubernetes-client-bom-6.9.2.pom (28 kB at 249 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/assertj/assertj-bom/3.24.2/assertj-bom-3.24.2.pom
+Progress (1): 3.7 kB                    Downloading from central: https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-bom/5.16.0/brave-bom-5.16.0.pom
+Progress (1): 4.1/12 kBProgress (1): 8.2/12 kBProgress (1): 12 kB                       [[1;33mWARNING[m] Failed to write tracking file /var/jenkins_home/.m2/repository/io/zipkin/brave/brave-bom/5.16.0/brave-bom-5.16.0.pom.lastUpdated
+[1;31mjava.io.IOException[m: [1;31mNo such file or directory[m
+    [1mat[m java.io.RandomAccessFile.setLength ([1mNative Method[m)
+    [1mat[m org.eclipse.aether.internal.impl.TrackingFileManager.update ([1mTrackingFileManager.java:119[m)
+    [1mat[m org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.write ([1mDefaultUpdateCheckManager.java:590[m)
+    [1mat[m org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.touchArtifact ([1mDefaultUpdateCheckManager.java:526[m)
+    [1mat[m org.eclipse.aether.internal.impl.DefaultArtifactResolver.evaluateDownloads ([1mDefaultArtifactResolver.java:634[m)
+    [1mat[m org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads ([1mDefaultArtifactResolver.java:525[m)
+    [1mat[m org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve ([1mDefaultArtifactResolver.java:402[m)
+    [1mat[m org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts ([1mDefaultArtifactResolver.java:229[m)
+    [1mat[m org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact ([1mDefaultArtifactResolver.java:207[m)
+    [1mat[m org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact ([1mDefaultRepositorySystem.java:262[m)
+    [1mat[m org.apache.maven.project.ProjectModelResolver.resolveModel ([1mProjectModelResolver.java:192[m)
+    [1mat[m org.apache.maven.model.building.DefaultModelBuilder.importDependencyManagement ([1mDefaultModelBuilder.java:1347[m)
+    [1mat[m org.apache.maven.model.building.DefaultModelBuilder.build ([1mDefaultModelBuilder.java:544[m)
+    [1mat[m org.apache.maven.model.building.DefaultModelBuilder.build ([1mDefaultModelBuilder.java:510[m)
+    [1mat[m org.apache.maven.project.DefaultProjectBuilder.build ([1mDefaultProjectBuilder.java:618[m)
+    [1mat[m org.apache.maven.project.DefaultProjectBuilder.build ([1mDefaultProjectBuilder.java:387[m)
+    [1mat[m org.apache.maven.graph.DefaultGraphBuilder.collectProjects ([1mDefaultGraphBuilder.java:414[m)
+    [1mat[m org.apache.maven.graph.DefaultGraphBuilder.getProjectsForMavenReactor ([1mDefaultGraphBuilder.java:405[m)
+    [1mat[m org.apache.maven.graph.DefaultGraphBuilder.build ([1mDefaultGraphBuilder.java:82[m)
+    [1mat[m org.apache.maven.DefaultMaven.buildGraph ([1mDefaultMaven.java:542[m)
+    [1mat[m org.apache.maven.DefaultMaven.doExecute ([1mDefaultMaven.java:219[m)
+    [1mat[m org.apache.maven.DefaultMaven.doExecute ([1mDefaultMaven.java:192[m)
+    [1mat[m org.apache.maven.DefaultMaven.execute ([1mDefaultMaven.java:105[m)
+    [1mat[m org.apache.maven.cli.MavenCli.execute ([1mMavenCli.java:960[m)
+    [1mat[m org.apache.maven.cli.MavenCli.doMain ([1mMavenCli.java:293[m)
+    [1mat[m org.apache.maven.cli.MavenCli.main ([1mMavenCli.java:196[m)
+    [1mat[m jdk.internal.reflect.NativeMethodAccessorImpl.invoke0 ([1mNative Method[m)
+    [1mat[m jdk.internal.reflect.NativeMethodAccessorImpl.invoke ([1mUnknown Source[m)
+    [1mat[m jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke ([1mUnknown Source[m)
+    [1mat[m java.lang.reflect.Method.invoke ([1mUnknown Source[m)
+    [1mat[m org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced ([1mLauncher.java:283[m)
+    [1mat[m org.codehaus.plexus.classworlds.launcher.Launcher.launch ([1mLauncher.java:226[m)
+    [1mat[m org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode ([1mLauncher.java:407[m)
+    [1mat[m org.codehaus.plexus.classworlds.launcher.Launcher.main ([1mLauncher.java:348[m)
+Downloading from central: https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-bom/4.2.23/metrics-bom-4.2.23.pom
+Progress (1): 4.1/8.2 kBProgress (1): 8.2/8.2 kBProgress (1): 8.2 kB                        [[1;33mWARNING[m] Failed to write tracking file /var/jenkins_home/.m2/repository/io/dropwizard/metrics/metrics-bom/4.2.23/metrics-bom-4.2.23.pom.lastUpdated
+[1;31mjava.io.IOException[m: [1;31mNo such file or directory[m
+    [1mat[m java.io.RandomAccessFile.setLength ([1mNative Method[m)
+    [1mat[m org.eclipse.aether.internal.impl.TrackingFileManager.update ([1mTrackingFileManager.java:119[m)
+    [1mat[m org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.write ([1mDefaultUpdateCheckManager.java:590[m)
+    [1mat[m org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.touchArtifact ([1mDefaultUpdateCheckManager.java:526[m)
+    [1mat[m org.eclipse.aether.internal.impl.DefaultArtifactResolver.evaluateDownloads ([1mDefaultArtifactResolver.java:634[m)
+    [1mat[m org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads ([1mDefaultArtifactResolver.java:525[m)
+    [1mat[m org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve ([1mDefaultArtifactResolver.java:402[m)
+    [1mat[m org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts ([1mDefaultArtifactResolver.java:229[m)
+    [1mat[m org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact ([1mDefaultArtifactResolver.java:207[m)
+    [1mat[m org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact ([1mDefaultRepositorySystem.java:262[m)
+    [1mat[m org.apache.maven.project.ProjectModelResolver.resolveModel ([1mProjectModelResolver.java:192[m)
+    [1mat[m org.apache.maven.model.building.DefaultModelBuilder.importDependencyManagement ([1mDefaultModelBuilder.java:1347[m)
+    [1mat[m org.apache.maven.model.building.DefaultModelBuilder.build ([1mDefaultModelBuilder.java:544[m)
+    [1mat[m org.apache.maven.model.building.DefaultModelBuilder.build ([1mDefaultModelBuilder.java:510[m)
+    [1mat[m org.apache.maven.project.DefaultProjectBuilder.build ([1mDefaultProjectBuilder.java:618[m)
+    [1mat[m org.apache.maven.project.DefaultProjectBuilder.build ([1mDefaultProjectBuilder.java:387[m)
+    [1mat[m org.apache.maven.graph.DefaultGraphBuilder.collectProjects ([1mDefaultGraphBuilder.java:414[m)
+    [1mat[m org.apache.maven.graph.DefaultGraphBuilder.getProjectsForMavenReactor ([1mDefaultGraphBuilder.java:405[m)
+    [1mat[m org.apache.maven.graph.DefaultGraphBuilder.build ([1mDefaultGraphBuilder.java:82[m)
+    [1mat[m org.apache.maven.DefaultMaven.buildGraph ([1mDefaultMaven.java:542[m)
+    [1mat[m org.apache.maven.DefaultMaven.doExecute ([1mDefaultMaven.java:219[m)
+    [1mat[m org.apache.maven.DefaultMaven.doExecute ([1mDefaultMaven.java:192[m)
+    [1mat[m org.apache.maven.DefaultMaven.execute ([1mDefaultMaven.java:105[m)
+    [1mat[m org.apache.maven.cli.MavenCli.execute ([1mMavenCli.java:960[m)
+    [1mat[m org.apache.maven.cli.MavenCli.doMain ([1mMavenCli.java:293[m)
+    [1mat[m org.apache.maven.cli.MavenCli.main ([1mMavenCli.java:196[m)
+    [1mat[m jdk.internal.reflect.NativeMethodAccessorImpl.invoke0 ([1mNative Method[m)
+    [1mat[m jdk.internal.reflect.NativeMethodAccessorImpl.invoke ([1mUnknown Source[m)
+    [1mat[m jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke ([1mUnknown Source[m)
+    [1mat[m java.lang.reflect.Method.invoke ([1mUnknown Source[m)
+    [1mat[m org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced ([1mLauncher.java:283[m)
+    [1mat[m org.codehaus.plexus.classworlds.launcher.Launcher.launch ([1mLauncher.java:226[m)
+    [1mat[m org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode ([1mLauncher.java:407[m)
+    [1mat[m org.codehaus.plexus.classworlds.launcher.Launcher.main ([1mLauncher.java:348[m)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/ee4j/project/1.0.8/project-1.0.8.pom
+Progress (1): 4.1/15 kBProgress (1): 8.2/15 kBProgress (1): 12/15 kB Progress (1): 15 kB                      Downloading from central: https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-bom/4.0.17/groovy-bom-4.0.17.pom
+Progress (1): 4.1/27 kBProgress (1): 8.2/27 kBProgress (1): 12/27 kB Progress (1): 16/27 kBProgress (1): 20/27 kBProgress (1): 24/27 kBProgress (1): 27 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-bom/4.0.17/groovy-bom-4.0.17.pom (27 kB at 196 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/infinispan/infinispan-bom/14.0.21.Final/infinispan-bom-14.0.21.Final.pom
+Progress (1): 4.1/24 kBProgress (1): 8.2/24 kBProgress (1): 12/24 kB Progress (1): 16/24 kBProgress (1): 20/24 kBProgress (1): 24 kB                      [[1;33mWARNING[m] Failed to write tracking file /var/jenkins_home/.m2/repository/org/infinispan/infinispan-bom/14.0.21.Final/infinispan-bom-14.0.21.Final.pom.lastUpdated
+[1;31mjava.io.IOException[m: [1;31mNo such file or directory[m
+    [1mat[m java.io.RandomAccessFile.setLength ([1mNative Method[m)
+    [1mat[m org.eclipse.aether.internal.impl.TrackingFileManager.update ([1mTrackingFileManager.java:119[m)
+    [1mat[m org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.write ([1mDefaultUpdateCheckManager.java:590[m)
+    [1mat[m org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.touchArtifact ([1mDefaultUpdateCheckManager.java:526[m)
+    [1mat[m org.eclipse.aether.internal.impl.DefaultArtifactResolver.evaluateDownloads ([1mDefaultArtifactResolver.java:634[m)
+    [1mat[m org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads ([1mDefaultArtifactResolver.java:525[m)
+    [1mat[m org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve ([1mDefaultArtifactResolver.java:402[m)
+    [1mat[m org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts ([1mDefaultArtifactResolver.java:229[m)
+    [1mat[m org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact ([1mDefaultArtifactResolver.java:207[m)
+    [1mat[m org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact ([1mDefaultRepositorySystem.java:262[m)
+    [1mat[m org.apache.maven.project.ProjectModelResolver.resolveModel ([1mProjectModelResolver.java:192[m)
+    [1mat[m org.apache.maven.model.building.DefaultModelBuilder.importDependencyManagement ([1mDefaultModelBuilder.java:1347[m)
+    [1mat[m org.apache.maven.model.building.DefaultModelBuilder.build ([1mDefaultModelBuilder.java:544[m)
+    [1mat[m org.apache.maven.model.building.DefaultModelBuilder.build ([1mDefaultModelBuilder.java:510[m)
+    [1mat[m org.apache.maven.project.DefaultProjectBuilder.build ([1mDefaultProjectBuilder.java:618[m)
+    [1mat[m org.apache.maven.project.DefaultProjectBuilder.build ([1mDefaultProjectBuilder.java:387[m)
+    [1mat[m org.apache.maven.graph.DefaultGraphBuilder.collectProjects ([1mDefaultGraphBuilder.java:414[m)
+    [1mat[m org.apache.maven.graph.DefaultGraphBuilder.getProjectsForMavenReactor ([1mDefaultGraphBuilder.java:405[m)
+    [1mat[m org.apache.maven.graph.DefaultGraphBuilder.build ([1mDefaultGraphBuilder.java:82[m)
+    [1mat[m org.apache.maven.DefaultMaven.buildGraph ([1mDefaultMaven.java:542[m)
+    [1mat[m org.apache.maven.DefaultMaven.doExecute ([1mDefaultMaven.java:219[m)
+    [1mat[m org.apache.maven.DefaultMaven.doExecute ([1mDefaultMaven.java:192[m)
+    [1mat[m org.apache.maven.DefaultMaven.execute ([1mDefaultMaven.java:105[m)
+    [1mat[m org.apache.maven.cli.MavenCli.execute ([1mMavenCli.java:960[m)
+    [1mat[m org.apache.maven.cli.MavenCli.doMain ([1mMavenCli.java:293[m)
+    [1mat[m org.apache.maven.cli.MavenCli.main ([1mMavenCli.java:196[m)
+    [1mat[m jdk.internal.reflect.NativeMethodAccessorImpl.invoke0 ([1mNative Method[m)
+    [1mat[m jdk.internal.reflect.NativeMethodAccessorImpl.invoke ([1mUnknown Source[m)
+    [1mat[m jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke ([1mUnknown Source[m)
+    [1mat[m java.lang.reflect.Method.invoke ([1mUnknown Source[m)
+    [1mat[m org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced ([1mLauncher.java:283[m)
+    [1mat[m org.codehaus.plexus.classworlds.launcher.Launcher.launch ([1mLauncher.java:226[m)
+    [1mat[m org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode ([1mLauncher.java:407[m)
+    [1mat[m org.codehaus.plexus.classworlds.launcher.Launcher.main ([1mLauncher.java:348[m)
+Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.15.3/jackson-bom-2.15.3.pom
+Progress (1): 4.1/18 kBProgress (1): 8.2/18 kBProgress (1): 12/18 kB Progress (1): 16/18 kBProgress (1): 18 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.15.3/jackson-bom-2.15.3.pom (18 kB at 176 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.15/jackson-parent-2.15.pom
+Progress (1): 4.1/6.5 kBProgress (1): 6.5 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.15/jackson-parent-2.15.pom (6.5 kB at 85 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/50/oss-parent-50.pom
+Progress (1): 4.1/24 kBProgress (1): 8.2/24 kBProgress (1): 12/24 kB Progress (1): 16/24 kBProgress (1): 20/24 kBProgress (1): 24 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/50/oss-parent-50.pom (24 kB at 236 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-bom/12.0.5/jetty-ee10-bom-12.0.5.pom
+Progress (1): 4.1/9.2 kBProgress (1): 8.2/9.2 kBProgress (1): 9.2 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-bom/12.0.5/jetty-ee10-bom-12.0.5.pom (9.2 kB at 86 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/12.0.5/jetty-bom-12.0.5.pom
+Progress (1): 4.1/14 kBProgress (1): 8.2/14 kBProgress (1): 12/14 kB Progress (1): 14 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/12.0.5/jetty-bom-12.0.5.pom (14 kB at 134 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.10.1/junit-bom-5.10.1.pom
+Progress (1): 4.1/5.6 kBProgress (1): 5.6 kB                        Downloading from central: https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-bom/1.9.22/kotlin-bom-1.9.22.pom
+Progress (1): 4.1/9.1 kBProgress (1): 8.2/9.1 kBProgress (1): 9.1 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-bom/1.9.22/kotlin-bom-1.9.22.pom (9.1 kB at 84 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-bom/1.7.3/kotlinx-coroutines-bom-1.7.3.pom
+Progress (1): 4.1/4.3 kBProgress (1): 4.3 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-bom/1.7.3/kotlinx-coroutines-bom-1.7.3.pom (4.3 kB at 48 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-bom/1.6.2/kotlinx-serialization-bom-1.6.2.pom
+Progress (1): 3.8 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-bom/1.6.2/kotlinx-serialization-bom-1.6.2.pom (3.8 kB at 58 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-bom/2.21.1/log4j-bom-2.21.1.pom
+Progress (1): 4.1/12 kBProgress (1): 8.2/12 kBProgress (1): 12/12 kB Progress (1): 12 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-bom/2.21.1/log4j-bom-2.21.1.pom (12 kB at 132 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/logging/logging-parent/10.1.1/logging-parent-10.1.1.pom
+Progress (1): 4.1/39 kBProgress (1): 8.2/39 kBProgress (1): 12/39 kB Progress (1): 16/39 kBProgress (1): 20/39 kBProgress (1): 25/39 kBProgress (1): 29/39 kBProgress (1): 33/39 kBProgress (1): 37/39 kBProgress (1): 39 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/logging/logging-parent/10.1.1/logging-parent-10.1.1.pom (39 kB at 254 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/apache/30/apache-30.pom
+Progress (1): 4.1/23 kBProgress (1): 8.2/23 kBProgress (1): 12/23 kB Progress (1): 16/23 kBProgress (1): 20/23 kBProgress (1): 23 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/apache/30/apache-30.pom (23 kB at 215 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.105.Final/netty-bom-4.1.105.Final.pom
+Progress (1): 4.1/14 kBProgress (1): 8.2/14 kBProgress (1): 12/14 kB Progress (1): 14 kB                      Downloading from central: https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp-bom/4.12.0/okhttp-bom-4.12.0.pom
+Progress (1): 3.1 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp-bom/4.12.0/okhttp-bom-4.12.0.pom (3.1 kB at 34 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-bom/1.31.0/opentelemetry-bom-1.31.0.pom
+Progress (1): 4.1/7.0 kBProgress (1): 7.0 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-bom/1.31.0/opentelemetry-bom-1.31.0.pom (7.0 kB at 62 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/oracle/database/jdbc/ojdbc-bom/21.9.0.0/ojdbc-bom-21.9.0.0.pom
+Progress (1): 4.1/13 kBProgress (1): 8.2/13 kBProgress (1): 12/13 kB Progress (1): 13 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/com/oracle/database/jdbc/ojdbc-bom/21.9.0.0/ojdbc-bom-21.9.0.0.pom (13 kB at 79 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/io/prometheus/simpleclient_bom/0.16.0/simpleclient_bom-0.16.0.pom
+Progress (1): 4.1/6.0 kBProgress (1): 6.0 kB                        Downloading from central: https://repo.maven.apache.org/maven2/com/querydsl/querydsl-bom/5.0.0/querydsl-bom-5.0.0.pom
+Progress (1): 4.1/7.2 kBProgress (1): 7.2 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/com/querydsl/querydsl-bom/5.0.0/querydsl-bom-5.0.0.pom (7.2 kB at 59 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/io/projectreactor/reactor-bom/2023.0.2/reactor-bom-2023.0.2.pom
+Progress (1): 4.1/4.8 kBProgress (1): 4.8 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/io/projectreactor/reactor-bom/2023.0.2/reactor-bom-2023.0.2.pom (4.8 kB at 54 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/io/rest-assured/rest-assured-bom/5.3.2/rest-assured-bom-5.3.2.pom
+Progress (1): 4.1/4.3 kBProgress (1): 4.3 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/io/rest-assured/rest-assured-bom/5.3.2/rest-assured-bom-5.3.2.pom (4.3 kB at 41 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/io/rsocket/rsocket-bom/1.1.3/rsocket-bom-1.1.3.pom
+Progress (1): 2.6 kB                    Downloading from central: https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-bom/4.14.1/selenium-bom-4.14.1.pom
+Progress (1): 4.1/6.0 kBProgress (1): 6.0 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-bom/4.14.1/selenium-bom-4.14.1.pom (6.0 kB at 29 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/amqp/spring-amqp-bom/3.1.1/spring-amqp-bom-3.1.1.pom
+Progress (1): 3.9 kB                    Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/batch/spring-batch-bom/5.1.0/spring-batch-bom-5.1.0.pom
+Progress (1): 3.2 kB                    Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-bom/2023.1.2/spring-data-bom-2023.1.2.pom
+Progress (1): 4.1/5.5 kBProgress (1): 5.5 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-bom/2023.1.2/spring-data-bom-2023.1.2.pom (5.5 kB at 33 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/6.1.3/spring-framework-bom-6.1.3.pom
+Progress (1): 4.1/5.8 kBProgress (1): 5.8 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/6.1.3/spring-framework-bom-6.1.3.pom (5.8 kB at 40 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/6.2.1/spring-integration-bom-6.2.1.pom
+Progress (1): 4.1/10 kBProgress (1): 8.2/10 kBProgress (1): 10 kB                       Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/pulsar/spring-pulsar-bom/1.0.2/spring-pulsar-bom-1.0.2.pom
+Progress (1): 2.7 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/pulsar/spring-pulsar-bom/1.0.2/spring-pulsar-bom-1.0.2.pom (2.7 kB at 21 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/restdocs/spring-restdocs-bom/3.0.1/spring-restdocs-bom-3.0.1.pom
+Progress (1): 2.6 kB                    Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/6.2.1/spring-security-bom-6.2.1.pom
+Progress (1): 4.1/5.3 kBProgress (1): 5.3 kB                        Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/session/spring-session-bom/3.2.1/spring-session-bom-3.2.1.pom
+Progress (1): 2.9 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/session/spring-session-bom/3.2.1/spring-session-bom-3.2.1.pom (2.9 kB at 31 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/ws/spring-ws-bom/4.0.10/spring-ws-bom-4.0.10.pom
+Progress (1): 3.5 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/ws/spring-ws-bom/4.0.10/spring-ws-bom-4.0.10.pom (3.5 kB at 42 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/testcontainers/testcontainers-bom/1.19.3/testcontainers-bom-1.19.3.pom
+Progress (1): 4.1/9.0 kBProgress (1): 8.2/9.0 kBProgress (1): 9.0 kB                        [[1;31mERROR[m] [ERROR] Some problems were encountered while processing the POMs:
+[ERROR] Non-resolvable import POM: Could not transfer artifact org.springframework.cloud:spring-cloud-openfeign-dependencies:pom:4.1.0 from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/org/springframework/cloud/spring-cloud-openfeign-dependencies/4.1.0/spring-cloud-openfeign-dependencies-4.1.0.pom.part (No such file or directory) @ org.springframework.cloud:spring-cloud-dependencies:2023.0.0, /var/jenkins_home/.m2/repository/org/springframework/cloud/spring-cloud-dependencies/2023.0.0/spring-cloud-dependencies-2023.0.0.pom, line 199, column 19
+[ERROR] Non-resolvable import POM: Could not transfer artifact org.assertj:assertj-bom:pom:3.24.2 from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/org/assertj/assertj-bom/3.24.2/assertj-bom-3.24.2.pom.part (No such file or directory) @ org.springframework.boot:spring-boot-dependencies:3.2.2, /var/jenkins_home/.m2/repository/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom, line 2523, column 19
+[ERROR] Non-resolvable import POM: Could not transfer artifact io.zipkin.brave:brave-bom:pom:5.16.0 from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/io/zipkin/brave/brave-bom/5.16.0/brave-bom-5.16.0.pom.part (No such file or directory) @ org.springframework.boot:spring-boot-dependencies:3.2.2, /var/jenkins_home/.m2/repository/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom, line 2530, column 19
+[ERROR] Non-resolvable import POM: Could not transfer artifact io.dropwizard.metrics:metrics-bom:pom:4.2.23 from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/io/dropwizard/metrics/metrics-bom/4.2.23/metrics-bom-4.2.23.pom.part (No such file or directory) @ org.springframework.boot:spring-boot-dependencies:3.2.2, /var/jenkins_home/.m2/repository/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom, line 2544, column 19
+[FATAL] Non-resolvable parent POM for org.glassfish.jaxb:jaxb-bom:4.0.4: Could not transfer artifact org.eclipse.ee4j:project:pom:1.0.8 from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/org/eclipse/ee4j/project/1.0.8/project-1.0.8.pom.part (No such file or directory) @ org.glassfish.jaxb:jaxb-bom:4.0.4, /var/jenkins_home/.m2/repository/org/glassfish/jaxb/jaxb-bom/4.0.4/jaxb-bom-4.0.4.pom, line 18, column 13
+[FATAL] Non-readable POM /var/jenkins_home/.m2/repository/org/apache/groovy/groovy-bom/4.0.17/groovy-bom-4.0.17.pom: input contained no data @ /var/jenkins_home/.m2/repository/org/apache/groovy/groovy-bom/4.0.17/groovy-bom-4.0.17.pom
+[ERROR] Non-resolvable import POM: Could not transfer artifact org.infinispan:infinispan-bom:pom:14.0.21.Final from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/org/infinispan/infinispan-bom/14.0.21.Final/infinispan-bom-14.0.21.Final.pom.part (No such file or directory) @ org.springframework.boot:spring-boot-dependencies:3.2.2, /var/jenkins_home/.m2/repository/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom, line 2565, column 19
+[FATAL] Non-readable POM /var/jenkins_home/.m2/repository/org/eclipse/jetty/jetty-bom/12.0.5/jetty-bom-12.0.5.pom: input contained no data @ /var/jenkins_home/.m2/repository/org/eclipse/jetty/jetty-bom/12.0.5/jetty-bom-12.0.5.pom
+[ERROR] Non-resolvable import POM: Could not transfer artifact org.junit:junit-bom:pom:5.10.1 from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/org/junit/junit-bom/5.10.1/junit-bom-5.10.1.pom.part (No such file or directory) @ org.springframework.boot:spring-boot-dependencies:3.2.2, /var/jenkins_home/.m2/repository/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom, line 2600, column 19
+[ERROR] Non-resolvable import POM: Could not transfer artifact io.netty:netty-bom:pom:4.1.105.Final from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/io/netty/netty-bom/4.1.105.Final/netty-bom-4.1.105.Final.pom.part (No such file or directory) @ org.springframework.boot:spring-boot-dependencies:3.2.2, /var/jenkins_home/.m2/repository/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom, line 2656, column 19
+[ERROR] Non-resolvable import POM: Could not transfer artifact io.prometheus:simpleclient_bom:pom:0.16.0 from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/io/prometheus/simpleclient_bom/0.16.0/simpleclient_bom-0.16.0.pom.part (No such file or directory) @ org.springframework.boot:spring-boot-dependencies:3.2.2, /var/jenkins_home/.m2/repository/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom, line 2684, column 19
+[ERROR] Non-resolvable import POM: Could not transfer artifact io.rsocket:rsocket-bom:pom:1.1.3 from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/io/rsocket/rsocket-bom/1.1.3/rsocket-bom-1.1.3.pom.part (No such file or directory) @ org.springframework.boot:spring-boot-dependencies:3.2.2, /var/jenkins_home/.m2/repository/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom, line 2712, column 19
+[ERROR] Non-resolvable import POM: Could not transfer artifact org.springframework.amqp:spring-amqp-bom:pom:3.1.1 from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/org/springframework/amqp/spring-amqp-bom/3.1.1/spring-amqp-bom-3.1.1.pom.part (No such file or directory) @ org.springframework.boot:spring-boot-dependencies:3.2.2, /var/jenkins_home/.m2/repository/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom, line 2726, column 19
+[ERROR] Non-resolvable import POM: Could not transfer artifact org.springframework.batch:spring-batch-bom:pom:5.1.0 from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/org/springframework/batch/spring-batch-bom/5.1.0/spring-batch-bom-5.1.0.pom.part (No such file or directory) @ org.springframework.boot:spring-boot-dependencies:3.2.2, /var/jenkins_home/.m2/repository/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom, line 2733, column 19
+[ERROR] Non-resolvable import POM: Could not transfer artifact org.springframework.integration:spring-integration-bom:pom:6.2.1 from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/org/springframework/integration/spring-integration-bom/6.2.1/spring-integration-bom-6.2.1.pom.part (No such file or directory) @ org.springframework.boot:spring-boot-dependencies:3.2.2, /var/jenkins_home/.m2/repository/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom, line 2754, column 19
+[ERROR] Non-resolvable import POM: Could not transfer artifact org.springframework.restdocs:spring-restdocs-bom:pom:3.0.1 from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/org/springframework/restdocs/spring-restdocs-bom/3.0.1/spring-restdocs-bom-3.0.1.pom.part (No such file or directory) @ org.springframework.boot:spring-boot-dependencies:3.2.2, /var/jenkins_home/.m2/repository/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom, line 2768, column 19
+[ERROR] Non-resolvable import POM: Could not transfer artifact org.springframework.security:spring-security-bom:pom:6.2.1 from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/org/springframework/security/spring-security-bom/6.2.1/spring-security-bom-6.2.1.pom.part (No such file or directory) @ org.springframework.boot:spring-boot-dependencies:3.2.2, /var/jenkins_home/.m2/repository/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom, line 2775, column 19
+[ERROR] Non-resolvable import POM: Could not transfer artifact org.testcontainers:testcontainers-bom:pom:1.19.3 from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/org/testcontainers/testcontainers-bom/1.19.3/testcontainers-bom-1.19.3.pom.part (No such file or directory) @ org.springframework.boot:spring-boot-dependencies:3.2.2, /var/jenkins_home/.m2/repository/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom, line 2796, column 19
+[ERROR] 'dependencies.dependency.version' for org.springframework.cloud:spring-cloud-starter-openfeign:jar is missing. @ line 21, column 15
+ @ 
+[[1;31mERROR[m] The build could not read 1 project -> [1m[Help 1][m
+[[1;31mERROR[m]   
+[[1;31mERROR[m]   The project insper.classroom:aula:0.0.1-SNAPSHOT (/var/jenkins_home/workspace/classroom.classroom/pom.xml) has 19 errors
+[[1;31mERROR[m]     Non-resolvable import POM: Could not transfer artifact org.springframework.cloud:spring-cloud-openfeign-dependencies:pom:4.1.0 from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/org/springframework/cloud/spring-cloud-openfeign-dependencies/4.1.0/spring-cloud-openfeign-dependencies-4.1.0.pom.part (No such file or directory) @ org.springframework.cloud:spring-cloud-dependencies:2023.0.0, /var/jenkins_home/.m2/repository/org/springframework/cloud/spring-cloud-dependencies/2023.0.0/spring-cloud-dependencies-2023.0.0.pom, line 199, column 19 -> [1m[Help 2][m
+[[1;31mERROR[m]     Non-resolvable import POM: Could not transfer artifact org.assertj:assertj-bom:pom:3.24.2 from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/org/assertj/assertj-bom/3.24.2/assertj-bom-3.24.2.pom.part (No such file or directory) @ org.springframework.boot:spring-boot-dependencies:3.2.2, /var/jenkins_home/.m2/repository/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom, line 2523, column 19 -> [1m[Help 2][m
+[[1;31mERROR[m]     Non-resolvable import POM: Could not transfer artifact io.zipkin.brave:brave-bom:pom:5.16.0 from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/io/zipkin/brave/brave-bom/5.16.0/brave-bom-5.16.0.pom.part (No such file or directory) @ org.springframework.boot:spring-boot-dependencies:3.2.2, /var/jenkins_home/.m2/repository/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom, line 2530, column 19 -> [1m[Help 2][m
+[[1;31mERROR[m]     Non-resolvable import POM: Could not transfer artifact io.dropwizard.metrics:metrics-bom:pom:4.2.23 from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/io/dropwizard/metrics/metrics-bom/4.2.23/metrics-bom-4.2.23.pom.part (No such file or directory) @ org.springframework.boot:spring-boot-dependencies:3.2.2, /var/jenkins_home/.m2/repository/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom, line 2544, column 19 -> [1m[Help 2][m
+[[1;31mERROR[m]     Non-resolvable parent POM for org.glassfish.jaxb:jaxb-bom:4.0.4: Could not transfer artifact org.eclipse.ee4j:project:pom:1.0.8 from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/org/eclipse/ee4j/project/1.0.8/project-1.0.8.pom.part (No such file or directory) @ org.glassfish.jaxb:jaxb-bom:4.0.4, /var/jenkins_home/.m2/repository/org/glassfish/jaxb/jaxb-bom/4.0.4/jaxb-bom-4.0.4.pom, line 18, column 13 -> [1m[Help 2][m
+[[1;31mERROR[m]     Non-readable POM /var/jenkins_home/.m2/repository/org/apache/groovy/groovy-bom/4.0.17/groovy-bom-4.0.17.pom: input contained no data @ /var/jenkins_home/.m2/repository/org/apache/groovy/groovy-bom/4.0.17/groovy-bom-4.0.17.pom
+[[1;31mERROR[m]     Non-resolvable import POM: Could not transfer artifact org.infinispan:infinispan-bom:pom:14.0.21.Final from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/org/infinispan/infinispan-bom/14.0.21.Final/infinispan-bom-14.0.21.Final.pom.part (No such file or directory) @ org.springframework.boot:spring-boot-dependencies:3.2.2, /var/jenkins_home/.m2/repository/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom, line 2565, column 19 -> [1m[Help 2][m
+[[1;31mERROR[m]     Non-readable POM /var/jenkins_home/.m2/repository/org/eclipse/jetty/jetty-bom/12.0.5/jetty-bom-12.0.5.pom: input contained no data @ /var/jenkins_home/.m2/repository/org/eclipse/jetty/jetty-bom/12.0.5/jetty-bom-12.0.5.pom
+[[1;31mERROR[m]     Non-resolvable import POM: Could not transfer artifact org.junit:junit-bom:pom:5.10.1 from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/org/junit/junit-bom/5.10.1/junit-bom-5.10.1.pom.part (No such file or directory) @ org.springframework.boot:spring-boot-dependencies:3.2.2, /var/jenkins_home/.m2/repository/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom, line 2600, column 19 -> [1m[Help 2][m
+[[1;31mERROR[m]     Non-resolvable import POM: Could not transfer artifact io.netty:netty-bom:pom:4.1.105.Final from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/io/netty/netty-bom/4.1.105.Final/netty-bom-4.1.105.Final.pom.part (No such file or directory) @ org.springframework.boot:spring-boot-dependencies:3.2.2, /var/jenkins_home/.m2/repository/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom, line 2656, column 19 -> [1m[Help 2][m
+[[1;31mERROR[m]     Non-resolvable import POM: Could not transfer artifact io.prometheus:simpleclient_bom:pom:0.16.0 from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/io/prometheus/simpleclient_bom/0.16.0/simpleclient_bom-0.16.0.pom.part (No such file or directory) @ org.springframework.boot:spring-boot-dependencies:3.2.2, /var/jenkins_home/.m2/repository/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom, line 2684, column 19 -> [1m[Help 2][m
+[[1;31mERROR[m]     Non-resolvable import POM: Could not transfer artifact io.rsocket:rsocket-bom:pom:1.1.3 from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/io/rsocket/rsocket-bom/1.1.3/rsocket-bom-1.1.3.pom.part (No such file or directory) @ org.springframework.boot:spring-boot-dependencies:3.2.2, /var/jenkins_home/.m2/repository/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom, line 2712, column 19 -> [1m[Help 2][m
+[[1;31mERROR[m]     Non-resolvable import POM: Could not transfer artifact org.springframework.amqp:spring-amqp-bom:pom:3.1.1 from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/org/springframework/amqp/spring-amqp-bom/3.1.1/spring-amqp-bom-3.1.1.pom.part (No such file or directory) @ org.springframework.boot:spring-boot-dependencies:3.2.2, /var/jenkins_home/.m2/repository/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom, line 2726, column 19 -> [1m[Help 2][m
+[[1;31mERROR[m]     Non-resolvable import POM: Could not transfer artifact org.springframework.batch:spring-batch-bom:pom:5.1.0 from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/org/springframework/batch/spring-batch-bom/5.1.0/spring-batch-bom-5.1.0.pom.part (No such file or directory) @ org.springframework.boot:spring-boot-dependencies:3.2.2, /var/jenkins_home/.m2/repository/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom, line 2733, column 19 -> [1m[Help 2][m
+[[1;31mERROR[m]     Non-resolvable import POM: Could not transfer artifact org.springframework.integration:spring-integration-bom:pom:6.2.1 from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/org/springframework/integration/spring-integration-bom/6.2.1/spring-integration-bom-6.2.1.pom.part (No such file or directory) @ org.springframework.boot:spring-boot-dependencies:3.2.2, /var/jenkins_home/.m2/repository/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom, line 2754, column 19 -> [1m[Help 2][m
+[[1;31mERROR[m]     Non-resolvable import POM: Could not transfer artifact org.springframework.restdocs:spring-restdocs-bom:pom:3.0.1 from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/org/springframework/restdocs/spring-restdocs-bom/3.0.1/spring-restdocs-bom-3.0.1.pom.part (No such file or directory) @ org.springframework.boot:spring-boot-dependencies:3.2.2, /var/jenkins_home/.m2/repository/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom, line 2768, column 19 -> [1m[Help 2][m
+[[1;31mERROR[m]     Non-resolvable import POM: Could not transfer artifact org.springframework.security:spring-security-bom:pom:6.2.1 from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/org/springframework/security/spring-security-bom/6.2.1/spring-security-bom-6.2.1.pom.part (No such file or directory) @ org.springframework.boot:spring-boot-dependencies:3.2.2, /var/jenkins_home/.m2/repository/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom, line 2775, column 19 -> [1m[Help 2][m
+[[1;31mERROR[m]     Non-resolvable import POM: Could not transfer artifact org.testcontainers:testcontainers-bom:pom:1.19.3 from/to central (https://repo.maven.apache.org/maven2): /var/jenkins_home/.m2/repository/org/testcontainers/testcontainers-bom/1.19.3/testcontainers-bom-1.19.3.pom.part (No such file or directory) @ org.springframework.boot:spring-boot-dependencies:3.2.2, /var/jenkins_home/.m2/repository/org/springframework/boot/spring-boot-dependencies/3.2.2/spring-boot-dependencies-3.2.2.pom, line 2796, column 19 -> [1m[Help 2][m
+[[1;31mERROR[m]     'dependencies.dependency.version' for org.springframework.cloud:spring-cloud-starter-openfeign:jar is missing. @ line 21, column 15
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
+[[1;31mERROR[m] [1m[Help 2][m http://cwiki.apache.org/confluence/display/MAVEN/UnresolvableModelException
+[0m[0m
+[8mha:////4Daa/HoROUOoiX/5Eu4CNO3fMnj3OiKZre8TjhSw13dlAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICVEgoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDQMEcr9Ntfu8AEWNdkpvgAAAA==[0m[Pipeline] }
+[8mha:////4AAL5sjeng6Zvv8JIXQ9CfogXY1gM7NqANzKlAaTTiXrAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKi0FAgqrRWGl5gYmOcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThwM9poGS7Gz6N1o8sKJw3B1PGHPF+yYIjuNrZ5aVrpZsOWkYUlRwkrARlPnOFoyCbailw9ZOUmmOqeQv6OA0qo7PKEQ2ZxkSF+YA+xuo4pMP89fAczeJyj3da768AEi+zpyvgAAAA==[0m[Pipeline] // stage
+[8mha:////4JvrzsplQfSWlx8WJAprDxM3k0GmXdQXecE1SLnMTay+AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPMJR0iIqWisNLzCxMU6sO8e+kFS8iK/xBywiUbHFamebeb1hmyKcKFrRGxwcps6J4Cebl5gpDjdPs+jpKjrCRN6I1swtaXNesSU2sKYoYSNhZ7DzlBxahr3s1UNVXqGtLhzzd5RQOj3CEwqZzawif2GJcLhPOhH+PH8FsITAUDZNrrr+ALkszR2+AAAA[0m[Pipeline] }
+[8mha:////4KursJhaw56wXHCqK38cA9w7bGjMp9e6F387Q9lgIiKbAAAApB+LCAAAAAAAAP9tjTsOwjAQRDdBFLSUHGLDp0SpaC03nMAkxjixdoPt4FSciKtxBywiUTHFaN407/WGZfBQszfYaeothcbi4EaTFyb2/dVxwo4v2DAFdhqlTpJbfZpRctQwpyhhIWClqXEcLJkIa9Gph6qcIlOdo8/fUUBp2zs8oRDZHJWPX5g8bG5jG5h+nr8CmIYhQrk/5NptP4rPlqG+AAAA[0m[Pipeline] // withEnv
+[8mha:////4GcRVhhvo2Y5uu6MXH1HgO+9b+0qx/+57yKrhL7dLXPkAAAAox+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6Ikhs04uTYsfkGFWgvNe9g+hMkv8tf8B4kkTt7pnrOc1xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0g35eCrPwA6/9Rob0AAAA=[0m[Pipeline] }
+[8mha:////4OSLDbEljwK9qJb/lxmIOA+j02RtFrI7bXbKRntZA+blAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKRQFSIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfLsXZLsP+ENVAr0AAAA=[0m[Pipeline] // node
+[8mha:////4FyoAdPHB0jgb/+19M63kwJQywvP7HBeSXbw19SUyTC5AAAAox+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6IkDC7GybVh8Qsq1Fpo3sP2IUx+kb/mP0gkcfJO95zlvN5Yp4gjR6daS52nVHvVh8HNT40cu2vgUbV8UTVT4mBVZceKG3tasGKxWJblWGlsLNWBkycn2OrWPEwRDLniLHF2B43cN3c8kem5LCbKF6aI3W1oEtOv8zeAqe8FebkXZOUHvgnyMr0AAAA=[0m[Pipeline] End of Pipeline
+ERROR: script returned exit code 1
+Finished: FAILURE
